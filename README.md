@@ -1,1 +1,13 @@
-FinTrack is a simple receivables management platform built with FastAPI, Angular, and Google Cloud Platform (GCP). The project aims to provide a basic system where users can register, view, and manage their receivables. The backend is developed using FastAPI, the database is Firestore (GCP), and the frontend will be implemented with Angular. The system will be deployed using Google Cloud App Engine and Firebase Hosting.
+# FinTrack
+
+A simple receivables management platform using FastAPI, Angular, and GCP.
+
+## Features
+- FastAPI backend
+- Firestore database (Google Cloud Platform)
+- Angular frontend (to be implemented)
+- User authentication with Firebase (to be implemented)
+
+## Getting Started
+
+### Install Dependencies
